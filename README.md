@@ -1,2 +1,1 @@
-# eats-project.github.io
-EATS project website
+# Eats
